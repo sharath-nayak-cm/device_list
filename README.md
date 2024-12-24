@@ -1,7 +1,7 @@
-# Device Lab Application
+# Device Management Application
 
 ## Overview
-The Device Lab application is built using **Express.js** for the backend, with **Mongoose** as the database ORM to interact with a MongoDB database. The application manages users and devices, and utilizes **Passport.js** for authentication. The entire project is written in **TypeScript** for improved type safety and development experience.
+The Device Lab application is built using **Express.js** for the backend, with **Mongoose** as the database ODM to interact with a MongoDB database. The application manages users and devices, and utilizes **Passport.js** for authentication. The entire project is written in **TypeScript** for improved type safety and development experience.
 
 ---
 
