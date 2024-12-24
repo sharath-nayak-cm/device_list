@@ -125,13 +125,6 @@ The Device Lab application is built using **Express.js** for the backend, with *
 
 ---
 
-## Running Tests
-To run tests (if implemented):
-```bash
-npm test
-```
-
----
 
 ## Future Improvements
 - Add JWT-based authentication for RESTful APIs.
@@ -139,21 +132,9 @@ npm test
 - Enhance device data with more attributes and relationships.
 - Add unit tests and integration tests.
 
----
 
-## Contributing
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Submit a pull request.
 
----
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
----
 
-## Contact
-For any inquiries or feedback, please contact:
-- **Email**: [your-email@example.com]
 
