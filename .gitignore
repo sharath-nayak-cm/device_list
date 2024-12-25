@@ -1,0 +1,26 @@
+
+
+# VS Code
+.settings/
+.vscode/
+.history/
+
+
+# npm install
+node_modules/
+.npmrc
+
+
+# Jest Test Coverage
+.test_coverage/
+
+
+# TypeScript
+dist/
+
+
+.env
+
+
+# Jest Coverage
+coverage/
